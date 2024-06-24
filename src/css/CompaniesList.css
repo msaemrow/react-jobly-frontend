@@ -1,0 +1,14 @@
+.CompaniesList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    margin-bottom: 25px;
+}
+
+.CompaniesList-header{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    color: white;
+}

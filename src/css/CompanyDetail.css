@@ -1,0 +1,29 @@
+.CompanyDetail{
+    border: 1px solid blue;
+    border-radius: 15px;
+    margin: 2px;
+    padding: 5px 15px;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.CompanyDetail-name{
+    margin: 5px 0;
+    text-align: center;
+}
+
+.CompanyDetail-description{
+    margin: 5px 0;
+    text-align: center;
+}
+
+.CompanyDetail-employees{
+    margin: 5px 0;
+}
+
+.CompanyDetail-jobs{
+    margin: 5px 0;
+}

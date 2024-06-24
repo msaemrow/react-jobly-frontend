@@ -1,0 +1,27 @@
+.NavBar{
+    background-color: black;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.NavBar-ul{
+    padding: 0;
+}
+.NavBar-li{
+    display: inline;
+    margin: 0 10px;
+}
+
+.NavLinkItem{
+    text-decoration: none;
+    color: white;
+}
+
+.NavLinkItem:hover{
+    text-decoration: none;
+    color: greenyellow;
+}

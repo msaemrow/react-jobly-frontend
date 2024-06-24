@@ -1,0 +1,14 @@
+.JobsList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    margin-bottom: 25px;
+}
+
+.JobsList-header{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: white;
+}

@@ -1,0 +1,29 @@
+.JobDetail{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 2px;
+    padding: 5px 15px;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.JobDetail-title{
+    margin: 5px 0;
+}
+
+.JobDetail-salary{
+    margin: 5px 0;
+}
+
+.JobDetail-company{
+    margin: 5px 0;
+}
+
+.JobDetail-equity{
+    margin: 5px 0;
+}
